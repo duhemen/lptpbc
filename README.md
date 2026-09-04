@@ -312,7 +312,6 @@ Kontribusi sangat diterima! Silakan ikuti langkah-langkah berikut:
 ## 📞 Contact
 
 - **Author**: ByYourself
-- **Email**: your.email@example.com
 - **GitHub**: [https://github.com/duhemen](https://github.com/duhemen)
 - **Issues**: [GitHub Issues](https://github.com/duhemen/lptbc/issues)
 
