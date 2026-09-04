@@ -1,0 +1,17 @@
+﻿# ============================================================
+# LPTBC - Dependencies
+# ============================================================
+# UI Framework
+PyQt5>=5.15.0
+
+# PDF Generation
+reportlab>=3.6.0
+qrcode>=7.3.1
+Pillow>=9.0.0
+
+# Cryptography & Security
+cryptography>=39.0.0
+
+# Development & Testing (Optional)
+# pytest>=7.0.0
+# pyinstaller>=5.0.0
